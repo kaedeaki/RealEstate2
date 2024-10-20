@@ -1,6 +1,6 @@
-# NLP Recommendation System for investors to Find Right Builder
+# NLP Recommendation System for Investors to Find Right Builder
 
-Aim: This project aims to identify the best builders for investors interested in real estate opportunities in Ontario, Canada.
+Aim: This project aims to identify the best builders for Investors interested in real estate opportunities in Ontario, Canada.
 Language: Python, HTML, CSS
 Tool: Jupyter Notebook, PyCharm, Docker, Google Reviews, Flask, Git, GitHub, Render
 Solution: Web Scraping, Extract reviews via API, Apply Flair and DistilBERT(LLM)

@@ -1,4 +1,5 @@
-# NLP_for_finding_right_builder
+# NLP Recommendation System for investors to find right builder
+----------------------------------------------------------------
 
 I have created the application for investors who would like to invest real estate in Ontario, Canada.  
 This is the process how I created the application.

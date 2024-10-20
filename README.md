@@ -1,8 +1,11 @@
-# NLP Recommendation System for investors to find right builder
-----------------------------------------------------------------
+# NLP Recommendation System for investors to Find Right Builder
 
-I have created the application for investors who would like to invest real estate in Ontario, Canada.  
-This is the process how I created the application.
+Aim: This project aims to identify the best builders for investors interested in real estate opportunities in Ontario, Canada.
+Language: Python, HTML, CSS
+Tool: Jupyter Notebook, PyCharm, Docker, Google Reviews, Flask, Git, GitHub, Render
+Solution: Web Scraping, Extract reviews via API, Apply Flair and DistilBERT(LLM)
+
+
 
 1, Scrape website.
 
@@ -15,3 +18,6 @@ This is the process how I created the application.
 5, Apply Flair and DistilBERT
 
 6, Deploy the model in UI
+
+
+

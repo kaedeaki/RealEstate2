@@ -1,10 +1,11 @@
 # NLP Recommendation System for Investors to Find Right Builder  
 
 **Aim**: This project aims to identify the best builders for Investors interested in real estate opportunities in Ontario, Canada.  
-**Language**: Python, HTML, CSS  
-**Tool**: Jupyter Notebook, PyCharm, Docker, Google Reviews, Flask, Git, GitHub, Render  
+**Language**: Python, SQL, HTML, CSS  
+**Tool**: Jupyter Notebook, PyCharm, Docker, Google Reviews, Flask, AWS RDS, MySQL, Git, GitHub, Render  
 **Solution**: Web Scraping, Extract reviews via API, Apply Flair and DistilBERT(LLM)  
 
+In progress  
 
 
 1, Scrape website.  

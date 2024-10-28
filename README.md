@@ -16,9 +16,11 @@
 
 4, Merge them  
 
-5, Apply Flair and DistilBERT  
+5, Create DB to RDS in AWS   
 
-6, Deploy the model in UI  
+6, Apply Flair and DistilBERT  
+
+7, Deploy the model in UI  
 
 
 

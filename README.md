@@ -2,8 +2,8 @@
 
 **Aim**: This project aims to identify the best builders for Investors interested in real estate opportunities in Ontario, Canada.  
 **Language**: Python, SQL, HTML, CSS  
-**Tool**: Jupyter Notebook, PyCharm, Docker, Google Reviews, Flask, AWS RDS, MySQL, Git, GitHub, Spyder, Render  
-**Solution**: Web Scraping, Extract reviews via API, Apply Flair and DistilBERT(LLM), Create DB    
+**Tool**: Jupyter Notebook, PyCharm, Docker, Google Reviews, Flask, CI/CD, AWS RDS, MySQL, Git, GitHub, Spyder, Streamlit  
+**Solution**: Web Scraping, Extract Google reviews via API, Apply Flair and DistilBERT(LLM), NER, Sentiment Analysis, Create DB    
 
 
 1, Scrape data from the website by Spyder.  
